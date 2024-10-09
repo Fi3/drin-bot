@@ -1,0 +1,15 @@
+{
+    "welcome_message": "Benvenuto {}!, manda un messaggio a @DrinChatBot per completare la regitrazione",
+    "data_collection_notice": "Avviso di Raccolta Dati\n\nCiao! Per continuare, abbiamo bisogno di raccogliere le seguenti informazioni:\n- **Nome**\n- **Cognome**\n- **Codice di Registrazione**\n\nUtilizzeremo questi dati per verificare la tua identità. Inoltre, potremmo controllare il tuo nome e codice di registrazione in un database di terze parti per confermare che i dati corrispondano.\n\nI tuoi dati saranno conservati in modo sicuro e utilizzati solo per gli scopi descritti. Puoi richiedere l'accesso ai tuoi dati, la loro correzione o la loro cancellazione in qualsiasi momento.\n\n**Procedendo con il processo di registrazione, accetti quanto sopra**. Se non sei d'accordo, puoi interrompere il processo non fornendo ulteriori informazioni.",
+    "name_request": "Digita il tuo nome",
+    "surname_request": "Digita il tuo cognome",
+    "code_request": "Digita il tuo numero di tessera",
+    "code_error": "Il numero di tessera e' gia stato usato, verificalo e in caso contatta un amministratore",
+    "general_error": "Qualcosa e' andato storto :(",
+    "empty_error": "L'input non puo essere vuoto",
+    "too_long_error": "L'input non puo essere piu lungo di 100 caratteri",
+    "invalid_type_error": "L'input non puo essere piu lungo di 100 caratteri",
+    "not_number_error": "L'input deve essere un numero",
+    "success_message": "Registrazione completata con successo!",
+    "group_chat_id": -1002285062169
+}
